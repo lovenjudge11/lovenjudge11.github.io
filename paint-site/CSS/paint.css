@@ -4,8 +4,8 @@
 nav, header, footer,
 {
     display: block;
-}
-
+} 
+ 
 body {
     line-height: 1;
     margin: 0;
@@ -206,7 +206,7 @@ footer {
 
 
 #section-1-gradient {
-    background-image: url(image/text-banner3.jpg);
+    background-image: url(/image/text-banner3.jpg);
     padding: 100px 100px 420px;
     display: block;
     
@@ -354,7 +354,7 @@ footer {
     }
     
     #section-1-gradient {
-    background-image: url(image/banner-mobile.png);
+    background-image: url(/image/banner-mobile.png);
     padding: 100px 100px 100px;
         display: block; }
     
